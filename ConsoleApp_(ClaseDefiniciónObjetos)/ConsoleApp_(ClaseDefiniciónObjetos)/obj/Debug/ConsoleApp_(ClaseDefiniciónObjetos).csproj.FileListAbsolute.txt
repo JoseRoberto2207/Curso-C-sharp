@@ -1,0 +1,7 @@
+C:\Users\Qualtop\source\repos\ConsoleApp_(ClaseDefiniciónObjetos)\ConsoleApp_(ClaseDefiniciónObjetos)\bin\Debug\ConsoleApp_(ClaseDefiniciónObjetos).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp_(ClaseDefiniciónObjetos)\ConsoleApp_(ClaseDefiniciónObjetos)\bin\Debug\ConsoleApp_(ClaseDefiniciónObjetos).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(ClaseDefiniciónObjetos)\ConsoleApp_(ClaseDefiniciónObjetos)\bin\Debug\ConsoleApp_(ClaseDefiniciónObjetos).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(ClaseDefiniciónObjetos)\ConsoleApp_(ClaseDefiniciónObjetos)\obj\Debug\ConsoleApp_(ClaseDefiniciónObjetos).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ClaseDefiniciónObjetos)\ConsoleApp_(ClaseDefiniciónObjetos)\obj\Debug\ConsoleApp_(ClaseDefiniciónObjetos).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ClaseDefiniciónObjetos)\ConsoleApp_(ClaseDefiniciónObjetos)\obj\Debug\ConsoleApp_(ClaseDefiniciónObjetos).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(ClaseDefiniciónObjetos)\ConsoleApp_(ClaseDefiniciónObjetos)\obj\Debug\ConsoleApp_(ClaseDefiniciónObjetos).pdb

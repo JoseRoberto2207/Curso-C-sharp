@@ -1,0 +1,14 @@
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)\ConsoleApp_(Vectores_Ordenamiento)\bin\Debug\ConsoleApp_(Vectores_Ordenamiento).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)\ConsoleApp_(Vectores_Ordenamiento)\bin\Debug\ConsoleApp_(Vectores_Ordenamiento).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)\ConsoleApp_(Vectores_Ordenamiento)\bin\Debug\ConsoleApp_(Vectores_Ordenamiento).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)\ConsoleApp_(Vectores_Ordenamiento)\obj\Debug\ConsoleApp_(Vectores_Ordenamiento).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)\ConsoleApp_(Vectores_Ordenamiento)\obj\Debug\ConsoleApp_(Vectores_Ordenamiento).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)\ConsoleApp_(Vectores_Ordenamiento)\obj\Debug\ConsoleApp_(Vectores_Ordenamiento).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)\ConsoleApp_(Vectores_Ordenamiento)\obj\Debug\ConsoleApp_(Vectores_Ordenamiento).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)Y(Orden_Vectores_Paralelos)\ConsoleApp_(Vectores_Ordenamiento)\bin\Debug\ConsoleApp_(Vectores_Ordenamiento).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)Y(Orden_Vectores_Paralelos)\ConsoleApp_(Vectores_Ordenamiento)\bin\Debug\ConsoleApp_(Vectores_Ordenamiento).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)Y(Orden_Vectores_Paralelos)\ConsoleApp_(Vectores_Ordenamiento)\bin\Debug\ConsoleApp_(Vectores_Ordenamiento).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)Y(Orden_Vectores_Paralelos)\ConsoleApp_(Vectores_Ordenamiento)\obj\Debug\ConsoleApp_(Vectores_Ordenamiento).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)Y(Orden_Vectores_Paralelos)\ConsoleApp_(Vectores_Ordenamiento)\obj\Debug\ConsoleApp_(Vectores_Ordenamiento).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)Y(Orden_Vectores_Paralelos)\ConsoleApp_(Vectores_Ordenamiento)\obj\Debug\ConsoleApp_(Vectores_Ordenamiento).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Ordenamiento)Y(Orden_Vectores_Paralelos)\ConsoleApp_(Vectores_Ordenamiento)\obj\Debug\ConsoleApp_(Vectores_Ordenamiento).pdb

@@ -1,0 +1,11 @@
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\obj\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\obj\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\obj\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).AssemblyInfoInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\obj\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).AssemblyInfo.cs
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\bin\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).deps.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\bin\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).runtimeconfig.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\bin\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).runtimeconfig.dev.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\bin\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).dll
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\bin\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\obj\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).dll
+C:\Users\Qualtop\source\repos\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\ConsoleApp_(ColaboraciondeClases_Ejercicio3)\obj\Debug\netcoreapp2.1\ConsoleApp_(ColaboraciondeClases_Ejercicio3).pdb

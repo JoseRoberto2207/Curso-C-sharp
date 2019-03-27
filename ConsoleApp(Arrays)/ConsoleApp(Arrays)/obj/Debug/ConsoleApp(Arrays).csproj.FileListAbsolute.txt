@@ -1,0 +1,7 @@
+C:\Users\Qualtop\source\repos\ConsoleApp(Arrays)\ConsoleApp(Arrays)\bin\Debug\ConsoleApp(Arrays).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp(Arrays)\ConsoleApp(Arrays)\bin\Debug\ConsoleApp(Arrays).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Arrays)\ConsoleApp(Arrays)\bin\Debug\ConsoleApp(Arrays).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp(Arrays)\ConsoleApp(Arrays)\obj\Debug\ConsoleApp(Arrays).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Arrays)\ConsoleApp(Arrays)\obj\Debug\ConsoleApp(Arrays).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Arrays)\ConsoleApp(Arrays)\obj\Debug\ConsoleApp(Arrays).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Arrays)\ConsoleApp(Arrays)\obj\Debug\ConsoleApp(Arrays).pdb

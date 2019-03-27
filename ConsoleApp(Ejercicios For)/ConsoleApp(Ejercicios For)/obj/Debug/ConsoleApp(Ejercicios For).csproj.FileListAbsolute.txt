@@ -1,0 +1,7 @@
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios For)\ConsoleApp(Ejercicios For)\bin\Debug\ConsoleApp(Ejercicios For).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios For)\ConsoleApp(Ejercicios For)\bin\Debug\ConsoleApp(Ejercicios For).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios For)\ConsoleApp(Ejercicios For)\bin\Debug\ConsoleApp(Ejercicios For).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios For)\ConsoleApp(Ejercicios For)\obj\Debug\ConsoleApp(Ejercicios For).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios For)\ConsoleApp(Ejercicios For)\obj\Debug\ConsoleApp(Ejercicios For).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios For)\ConsoleApp(Ejercicios For)\obj\Debug\ConsoleApp(Ejercicios For).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios For)\ConsoleApp(Ejercicios For)\obj\Debug\ConsoleApp(Ejercicios For).pdb

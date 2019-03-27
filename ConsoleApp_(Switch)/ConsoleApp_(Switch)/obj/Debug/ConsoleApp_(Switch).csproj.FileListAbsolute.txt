@@ -1,0 +1,7 @@
+C:\Users\Qualtop\source\repos\ConsoleApp_(Switch)\ConsoleApp_(Switch)\bin\Debug\ConsoleApp_(Switch).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp_(Switch)\ConsoleApp_(Switch)\bin\Debug\ConsoleApp_(Switch).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Switch)\ConsoleApp_(Switch)\bin\Debug\ConsoleApp_(Switch).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(Switch)\ConsoleApp_(Switch)\obj\Debug\ConsoleApp_(Switch).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Switch)\ConsoleApp_(Switch)\obj\Debug\ConsoleApp_(Switch).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Switch)\ConsoleApp_(Switch)\obj\Debug\ConsoleApp_(Switch).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Switch)\ConsoleApp_(Switch)\obj\Debug\ConsoleApp_(Switch).pdb

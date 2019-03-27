@@ -1,0 +1,7 @@
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios_Repaso_General)\ConsoleApp(Ejercicios_Repaso_General)\bin\Debug\ConsoleApp(Ejercicios_Repaso_General).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios_Repaso_General)\ConsoleApp(Ejercicios_Repaso_General)\bin\Debug\ConsoleApp(Ejercicios_Repaso_General).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios_Repaso_General)\ConsoleApp(Ejercicios_Repaso_General)\bin\Debug\ConsoleApp(Ejercicios_Repaso_General).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios_Repaso_General)\ConsoleApp(Ejercicios_Repaso_General)\obj\Debug\ConsoleApp(Ejercicios_Repaso_General).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios_Repaso_General)\ConsoleApp(Ejercicios_Repaso_General)\obj\Debug\ConsoleApp(Ejercicios_Repaso_General).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios_Repaso_General)\ConsoleApp(Ejercicios_Repaso_General)\obj\Debug\ConsoleApp(Ejercicios_Repaso_General).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Ejercicios_Repaso_General)\ConsoleApp(Ejercicios_Repaso_General)\obj\Debug\ConsoleApp(Ejercicios_Repaso_General).pdb

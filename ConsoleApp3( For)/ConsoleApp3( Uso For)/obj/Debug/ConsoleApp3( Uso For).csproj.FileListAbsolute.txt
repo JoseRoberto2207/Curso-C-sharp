@@ -1,0 +1,14 @@
+C:\Users\Qualtop\source\repos\ConsoleApp3( Uso For)\ConsoleApp3( Uso For)\bin\Debug\ConsoleApp3( Uso For).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp3( Uso For)\ConsoleApp3( Uso For)\bin\Debug\ConsoleApp3( Uso For).exe
+C:\Users\Qualtop\source\repos\ConsoleApp3( Uso For)\ConsoleApp3( Uso For)\bin\Debug\ConsoleApp3( Uso For).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp3( Uso For)\ConsoleApp3( Uso For)\obj\Debug\ConsoleApp3( Uso For).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp3( Uso For)\ConsoleApp3( Uso For)\obj\Debug\ConsoleApp3( Uso For).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp3( Uso For)\ConsoleApp3( Uso For)\obj\Debug\ConsoleApp3( Uso For).exe
+C:\Users\Qualtop\source\repos\ConsoleApp3( Uso For)\ConsoleApp3( Uso For)\obj\Debug\ConsoleApp3( Uso For).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp3( For)\ConsoleApp3( Uso For)\bin\Debug\ConsoleApp3( Uso For).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp3( For)\ConsoleApp3( Uso For)\bin\Debug\ConsoleApp3( Uso For).exe
+C:\Users\Qualtop\source\repos\ConsoleApp3( For)\ConsoleApp3( Uso For)\bin\Debug\ConsoleApp3( Uso For).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp3( For)\ConsoleApp3( Uso For)\obj\Debug\ConsoleApp3( Uso For).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp3( For)\ConsoleApp3( Uso For)\obj\Debug\ConsoleApp3( Uso For).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp3( For)\ConsoleApp3( Uso For)\obj\Debug\ConsoleApp3( Uso For).exe
+C:\Users\Qualtop\source\repos\ConsoleApp3( For)\ConsoleApp3( Uso For)\obj\Debug\ConsoleApp3( Uso For).pdb

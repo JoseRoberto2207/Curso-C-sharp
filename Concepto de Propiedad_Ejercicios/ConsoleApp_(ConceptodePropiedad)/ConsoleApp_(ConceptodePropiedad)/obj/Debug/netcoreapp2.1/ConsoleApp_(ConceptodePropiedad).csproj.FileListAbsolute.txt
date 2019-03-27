@@ -1,0 +1,11 @@
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).deps.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).runtimeconfig.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).runtimeconfig.dev.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).dll
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).AssemblyInfoInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).AssemblyInfo.cs
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).dll
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConceptodePropiedad)\ConsoleApp_(ConceptodePropiedad)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad).pdb

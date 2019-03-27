@@ -1,0 +1,14 @@
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)\ConsoleApp_(Vectores_Paralelos)\bin\Debug\ConsoleApp_(Vectores_Paralelos).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)\ConsoleApp_(Vectores_Paralelos)\bin\Debug\ConsoleApp_(Vectores_Paralelos).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)\ConsoleApp_(Vectores_Paralelos)\bin\Debug\ConsoleApp_(Vectores_Paralelos).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)\ConsoleApp_(Vectores_Paralelos)\obj\Debug\ConsoleApp_(Vectores_Paralelos).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)\ConsoleApp_(Vectores_Paralelos)\obj\Debug\ConsoleApp_(Vectores_Paralelos).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)\ConsoleApp_(Vectores_Paralelos)\obj\Debug\ConsoleApp_(Vectores_Paralelos).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)\ConsoleApp_(Vectores_Paralelos)\obj\Debug\ConsoleApp_(Vectores_Paralelos).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)Y(Mayor_Menor_Elemento)\ConsoleApp_(Vectores_Paralelos)\bin\Debug\ConsoleApp_(Vectores_Paralelos).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)Y(Mayor_Menor_Elemento)\ConsoleApp_(Vectores_Paralelos)\bin\Debug\ConsoleApp_(Vectores_Paralelos).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)Y(Mayor_Menor_Elemento)\ConsoleApp_(Vectores_Paralelos)\bin\Debug\ConsoleApp_(Vectores_Paralelos).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)Y(Mayor_Menor_Elemento)\ConsoleApp_(Vectores_Paralelos)\obj\Debug\ConsoleApp_(Vectores_Paralelos).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)Y(Mayor_Menor_Elemento)\ConsoleApp_(Vectores_Paralelos)\obj\Debug\ConsoleApp_(Vectores_Paralelos).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)Y(Mayor_Menor_Elemento)\ConsoleApp_(Vectores_Paralelos)\obj\Debug\ConsoleApp_(Vectores_Paralelos).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(Vectores_Paralelos)Y(Mayor_Menor_Elemento)\ConsoleApp_(Vectores_Paralelos)\obj\Debug\ConsoleApp_(Vectores_Paralelos).pdb

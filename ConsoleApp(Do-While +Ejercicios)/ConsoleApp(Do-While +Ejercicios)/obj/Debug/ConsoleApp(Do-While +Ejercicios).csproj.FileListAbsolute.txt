@@ -1,0 +1,7 @@
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While +Ejercicios)\ConsoleApp(Do-While +Ejercicios)\bin\Debug\ConsoleApp(Do-While +Ejercicios).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While +Ejercicios)\ConsoleApp(Do-While +Ejercicios)\bin\Debug\ConsoleApp(Do-While +Ejercicios).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While +Ejercicios)\ConsoleApp(Do-While +Ejercicios)\bin\Debug\ConsoleApp(Do-While +Ejercicios).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While +Ejercicios)\ConsoleApp(Do-While +Ejercicios)\obj\Debug\ConsoleApp(Do-While +Ejercicios).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While +Ejercicios)\ConsoleApp(Do-While +Ejercicios)\obj\Debug\ConsoleApp(Do-While +Ejercicios).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While +Ejercicios)\ConsoleApp(Do-While +Ejercicios)\obj\Debug\ConsoleApp(Do-While +Ejercicios).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While +Ejercicios)\ConsoleApp(Do-While +Ejercicios)\obj\Debug\ConsoleApp(Do-While +Ejercicios).pdb

@@ -1,0 +1,14 @@
+C:\Users\Qualtop\source\repos\ConsoleApp(Uso For 2)\ConsoleApp(Uso For 2)\bin\Debug\ConsoleApp(Uso For 2).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp(Uso For 2)\ConsoleApp(Uso For 2)\bin\Debug\ConsoleApp(Uso For 2).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Uso For 2)\ConsoleApp(Uso For 2)\bin\Debug\ConsoleApp(Uso For 2).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp(Uso For 2)\ConsoleApp(Uso For 2)\obj\Debug\ConsoleApp(Uso For 2).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Uso For 2)\ConsoleApp(Uso For 2)\obj\Debug\ConsoleApp(Uso For 2).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Uso For 2)\ConsoleApp(Uso For 2)\obj\Debug\ConsoleApp(Uso For 2).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Uso For 2)\ConsoleApp(Uso For 2)\obj\Debug\ConsoleApp(Uso For 2).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While)\ConsoleApp(Uso For 2)\bin\Debug\ConsoleApp(Uso For 2).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While)\ConsoleApp(Uso For 2)\bin\Debug\ConsoleApp(Uso For 2).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While)\ConsoleApp(Uso For 2)\bin\Debug\ConsoleApp(Uso For 2).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While)\ConsoleApp(Uso For 2)\obj\Debug\ConsoleApp(Uso For 2).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While)\ConsoleApp(Uso For 2)\obj\Debug\ConsoleApp(Uso For 2).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While)\ConsoleApp(Uso For 2)\obj\Debug\ConsoleApp(Uso For 2).exe
+C:\Users\Qualtop\source\repos\ConsoleApp(Do-While)\ConsoleApp(Uso For 2)\obj\Debug\ConsoleApp(Uso For 2).pdb

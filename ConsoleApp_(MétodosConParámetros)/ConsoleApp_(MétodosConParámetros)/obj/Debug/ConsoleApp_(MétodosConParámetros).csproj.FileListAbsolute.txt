@@ -1,0 +1,7 @@
+C:\Users\Qualtop\source\repos\ConsoleApp_(MétodosConParámetros)\ConsoleApp_(MétodosConParámetros)\bin\Debug\ConsoleApp_(MétodosConParámetros).exe.config
+C:\Users\Qualtop\source\repos\ConsoleApp_(MétodosConParámetros)\ConsoleApp_(MétodosConParámetros)\bin\Debug\ConsoleApp_(MétodosConParámetros).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(MétodosConParámetros)\ConsoleApp_(MétodosConParámetros)\bin\Debug\ConsoleApp_(MétodosConParámetros).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(MétodosConParámetros)\ConsoleApp_(MétodosConParámetros)\obj\Debug\ConsoleApp_(MétodosConParámetros).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(MétodosConParámetros)\ConsoleApp_(MétodosConParámetros)\obj\Debug\ConsoleApp_(MétodosConParámetros).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(MétodosConParámetros)\ConsoleApp_(MétodosConParámetros)\obj\Debug\ConsoleApp_(MétodosConParámetros).exe
+C:\Users\Qualtop\source\repos\ConsoleApp_(MétodosConParámetros)\ConsoleApp_(MétodosConParámetros)\obj\Debug\ConsoleApp_(MétodosConParámetros).pdb

@@ -1,0 +1,11 @@
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).deps.json
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).runtimeconfig.json
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).runtimeconfig.dev.json
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).dll
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).pdb
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).AssemblyInfoInputs.cache
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).AssemblyInfo.cs
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).dll
+C:\Users\Qualtop\source\repos\Concepto de Propiedad_Ejercicios\ConsoleApp_(ConceptodePropiedad2)\ConsoleApp_(ConceptodePropiedad2)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConceptodePropiedad2).pdb

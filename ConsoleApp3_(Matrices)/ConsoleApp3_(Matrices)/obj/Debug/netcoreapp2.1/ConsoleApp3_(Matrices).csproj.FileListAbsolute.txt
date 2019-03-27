@@ -1,0 +1,11 @@
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\bin\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).deps.json
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\bin\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).runtimeconfig.json
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\bin\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).runtimeconfig.dev.json
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\bin\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).dll
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\bin\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\obj\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\obj\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).AssemblyInfoInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\obj\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).AssemblyInfo.cs
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\obj\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).dll
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\obj\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp3_(Matrices)\ConsoleApp3_(Matrices)\obj\Debug\netcoreapp2.1\ConsoleApp3_(Matrices).csprojAssemblyReference.cache

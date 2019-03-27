@@ -1,0 +1,11 @@
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).deps.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).runtimeconfig.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).runtimeconfig.dev.json
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).dll
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\bin\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).pdb
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).csprojAssemblyReference.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).csproj.CoreCompileInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).AssemblyInfoInputs.cache
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).AssemblyInfo.cs
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).dll
+C:\Users\Qualtop\source\repos\ConsoleApp_(ConstructordelaClase)\ConsoleApp_(ConstructordelaClase)\obj\Debug\netcoreapp2.1\ConsoleApp_(ConstructordelaClase).pdb
